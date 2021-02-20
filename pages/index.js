@@ -126,7 +126,7 @@ export default function Home() {
           animate="show"
         />
       </QuizContainer>
-      <GitHubCorner projectUrl="https://github.com/jljardim/ProgramacaoQuiz-base.git" />
+      <GitHubCorner projectUrl="https://github.com/jljardim" />
     </QuizBackground>
   );
 }
