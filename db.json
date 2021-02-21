@@ -1,44 +1,49 @@
 {
-  "bg": "https://cdn.pixabay.com/photo/2017/11/19/21/55/guitar-2963955_960_720.jpg",
-  "title": "QUIZ MUSICAL",
-  "description": "Mostre que você é eclético e se divirta nesse quiz!!!",
+  "bg": "https://segredosdomundo.r7.com/wp-content/uploads/2018/09/90-curiosidades-do-mundo-que-sao-quase-inacreditaveis-1024x612.jpg",
+  "title": "CURIOSIDADES QUIZ",
+  "description": "Esta pronto(a) parar mostrar que você é um genio????",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif",
-      "title": "De qual banda é a musica rebirth?",
+      "image": "https://media.giphy.com/media/h6mFoXg5CLyXB0vlPK/giphy.gif",
+      "title": "De onde é a invenção do chuveiro elétrico?",
       "description": "Pergunta fácil em!",
-      "answer": 0,
+      "answer": 2,
       "alternatives": [
-        "Angra.",
-        "Shaman.",
-        "Dream Theater."
+        "França",
+        "Inglaterra",
+        "Brasil",
+        "Austrália",
+        "Itália"
 
       ]
     },
     {
-      "image": "https://media.giphy.com/media/Ie2Hs3A0uJRtK/giphy.gif",
-      "title": "Quem é a vocalista da banda Evanescence?",
-      "description": "E agora? Você sabe?",
+      "image": "https://media.giphy.com/media/UUzjHVJX8XNXMDuWal/giphy.gif",
+      "title": "Quais o menor e o maior país do mundo?",
+      "description": "Você sabe?",
       "answer": 0,
       "alternatives": [
-        "Amy Lee.",
-        "Cássia Eller.",
-        "Tarja Turunen."
+        "Vaticano e Rússia",
+        "Nauru e China",
+        "Mônaco e Canadá",
+        "Malta e Estados Unidos",
+        "São Marino e Índia"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-      "title": "Em qual ano foi lançado o Black album do Metallica?",
-      "answer": 1,
+      "image": "https://media.giphy.com/media/YqE4uqYNO7QAOY6yj8/giphy.gif",
+      "title": "Quantas casas decimais tem o número pi?",
+      "answer": 2,
       "alternatives": [
-        "1955.",
-        "1991.",
-        "1992.",
-        "2005."
+        "Duas",
+        "Centenas",
+        "Infinitas",
+        "Vinte",
+        "Milhares"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
+      "image": "https://media.giphy.com/media/5dSVztOWsEYYIYEX3m/giphy.gif",
       "title": "Em qual cidade foi formada a banda cpm22?",
       "answer": 1,
       "alternatives": [
@@ -47,8 +52,35 @@
         "Boituva.",
         "São Paulo."
       ]
+    },
+    {
+      "image": "https://media.giphy.com/media/uLnPIWsqIz2aA/giphy.gif",
+      "title": "O que a palavra legend significa em português?",
+      "answer": 3,
+      "alternatives": [
+        "Legenda",
+        "Conto",
+        "História",
+        "Lenda",
+        "Legendário"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/i45tjXiwFvvrji5RMq/giphy.gif",
+      "title": "Quanto tempo a luz do Sol demora para chegar à Terra?",
+      "answer": 3,
+      "alternatives": [
+        "12 minutos",
+        "1 dia",
+        "12 horas",
+        "8 minutos",
+        "segundos"
+      ]
     }
   ],
+  "tela1":[{"image":
+    "https://media.giphy.com/media/c6ikkf6y2aqJWtKmU8/giphy.gif"
+  }],
   "external": [
     "https://aluraquiz-css.omariosouto.vercel.app/",
     "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
@@ -63,5 +95,6 @@
       "success": "#4CAF50"
     },
     "borderRadius": "4px"
-  }
+  },
+  "tela":"https://media.giphy.com/media/c6ikkf6y2aqJWtKmU8/giphy.gif"
 }

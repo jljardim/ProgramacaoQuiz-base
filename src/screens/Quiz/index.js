@@ -16,7 +16,6 @@ function ResultWidget({ results }) {
       <Widget.Header>
         Tela de Resultado:
       </Widget.Header>
-
       <Widget.Content>
         <p>
           Você acertou
